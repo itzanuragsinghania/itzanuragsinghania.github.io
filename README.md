@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> itzanuragsinghania.github.io
 
 :star: Star me on GitHub — it helps!
 
@@ -12,7 +12,7 @@
 #### Home Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/HomePage.gif">
+    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/HomePage.png">
   </a>
   </kbd>
 </p>
